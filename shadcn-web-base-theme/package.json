@@ -1,0 +1,11 @@
+{
+  "name": "@coze-skills/shadcn-base-theme",
+  "type": "module",
+  "scripts": {
+    "build": "cp -r ../../shadcn-theme-cli/dist ./",
+    "test": "bun test"
+  },
+  "dependencies": {
+    "@coze-skills/shadcn-theme-cli": "workspace:*"
+  }
+}
