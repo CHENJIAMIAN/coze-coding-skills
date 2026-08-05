@@ -1,3 +1,11 @@
+[English](./README.en.md)
+
+<!-- codex-github-rules:bilingual-summary -->
+> **中文简介**：扣子编程 Skills 集合，支持 Python 和 TypeScript SDK
+>
+> **English summary**: A collection of reusable Coze Coding skills with Python and TypeScript SDKs
+
+---
 # 扣子编程 Skills
 
 扣子编程（Coze Coding）Skills 集合 - 一组可复用的开发技能模块，用于快速构建各类应用功能。
